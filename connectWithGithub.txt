@@ -1,2 +1,5 @@
 试试！
 第二行，在 github 编辑了，把它同步到本地去！
+master 添加的冲突
+master 添加的冲突
+master 添加的冲突
