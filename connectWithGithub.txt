@@ -1,18 +1,1 @@
-试试！
-第二行，在 github 编辑了，把它同步到本地去！
-master 添加的冲突
-master 添加的冲突
-master 添加的冲突
-现在我在 feature_xuguyu 先 pull dev 分支的代码，同步完毕后，开始今天的写代码...
-OK，现在写完了，准备提交。
-111111
-222222
-333333
-444444
-111
-222
-在 dev 上传了最新代码，现在各分支需要拉取 dev 的代码开发
-我没有先 pull，而是直接开发，然后 push 试试
-在 feature_xuguyu 的冲突
-qlw
-分支渐行渐远qlw
+dev
